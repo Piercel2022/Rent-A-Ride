@@ -100,7 +100,7 @@ Clone this repository to your desired folder:
 Install this project with:
 
 ```sh
-  cd DriveTime-Back-End
+  cd Rent-A-Ride
   gem install
 
 ```
@@ -175,7 +175,6 @@ I would like to thank microverse for this opportunity to learn
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
