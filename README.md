@@ -137,6 +137,11 @@ gem install rspec
 - Twitter: [@_iamkobby](https://twitter.com/_iamkobby)
 - LinkedIn: [Kennedy Owusu](https://www.linkedin.com/in/kennedy-owusu/)
 
+👤 **Pierre Celestin Moussa**
+- GitHub: https://github.com/Piercel2022
+- Twitter: https://twitter.com/pier_celestin
+- LinkedIn: https://linkedin.com/in/piercelestinmax
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- FUTURE FEATURES -->
