@@ -38,24 +38,14 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
+  <summary>Frontend</summary>
   <ul>
-    <li>React.js</li>
-  </ul>
-   <ul>
-    <li>Redux</li>
+   <li><a href="https://react.dev/">React</a></li>
   </ul>
     <ul>
-    <li>React.jsJavaScript</li>
+    <li><a href="https://redux.js.org/">Redux</a></li>
   </ul>
 
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-    <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
-  </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
